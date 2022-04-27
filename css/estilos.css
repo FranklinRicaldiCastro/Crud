@@ -1,0 +1,21 @@
+body{
+	background-color: #632432;
+	font-family: Arial;
+}
+table{
+	background-color: white;
+}
+
+thead{
+	background-color: #4e9c62;
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: #ddd;
+}
+
+tr:hover td{
+	background-color: #369681;
+	color: white;
+}
